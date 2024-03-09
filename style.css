@@ -1,0 +1,24 @@
+.jac {
+   position: relative;
+   width: 250px;
+   height: 250px;
+   top: 50px;
+   left: 300px;
+}
+.texta {
+   position: absolute;
+   font-family: 'Times New Roman', Times, serif;
+   font-size: 25px;
+   top: 300px;
+   left: 300px;
+}
+.but {
+   position: relative;
+   left: 10px;
+}
+.buty{
+   position: fixed;
+  
+   top: 5px;
+   left: 95%;
+}
